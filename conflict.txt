@@ -1,1 +1,1 @@
-Conflit file
+THis is first line in test2
